@@ -93,7 +93,7 @@ ul.user-links li {
   background: #503759;
 }
 .single-title, .page-title {
-  font-size: calc(1.3rem + .6vw);
+  font-size: 20px;
   color: #fff;
 }
 .item-title {
